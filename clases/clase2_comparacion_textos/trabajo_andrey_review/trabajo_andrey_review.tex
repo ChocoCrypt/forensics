@@ -1,0 +1,69 @@
+% article example for classicthesis.sty
+\documentclass[10pt,a4paper]{article} % KOMA-Script article scrartcl
+\usepackage{lipsum}     %lorem ipsum text
+\usepackage{titlesec}   %Section settings
+\usepackage{titling}    %Title settings
+\usepackage[margin=10em]{geometry}  %Adjusting margins
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{amsmath}    %Display equations options
+\usepackage{amssymb}    %More symbols
+\usepackage{xcolor}     %Color settings
+\usepackage{pagecolor}
+\usepackage{mdframed}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{graphicx}
+\graphicspath{ {./Images/} }
+\setlength{\columnsep}{1cm}
+
+% ====| color de la pagina y del fondo |==== %
+\pagecolor{white}
+\color{black}
+
+
+
+\begin{document}
+    %========================{TITLE}====================%
+    \title{\rmfamily\normalfont\spacedallcaps{ Review del trabajo de Andrey }}
+    \author{\spacedlowsmallcaps{Rodrigo Castillo}}
+    \date{\today} 
+    
+    \maketitle
+     
+
+    %=======================NOTES GOES HERE===================%
+    \section{Cosas Buenas}
+        es fácil de entender , explica sobre el modelo cliente-servidor,
+        propone cosas ingeniosas fáciles de implementar
+        y es simple , abarca la mayoría de los temas mensionados en el taller y
+        cualquier persona en una empresa entendería conceptos
+        básicos de seguridad informática.
+
+    \section{Cosas que no me agradaron}
+       Creo que pudo extenderse un poco mas en algunos temas , faltaron
+       estrategias como el uso de VPNs , el cifrado , la  validacion de las
+       paginas mediante certificado.
+    
+    \section{Nota}
+        4.5
+
+    
+
+
+
+
+
+
+
+    %=======================NOTES ENDS HERE===================%
+    
+    % bib stuff
+    \nocite{*}
+    \addtocontents{toc}{\protect\vspace{\beforebibskip}}
+    \addcontentsline{toc}{section}{\refname}    
+    \bibliographystyle{plain}
+    \bibliography{../Bibliography}
+\end{document}
