@@ -252,31 +252,108 @@
         on the command and control machine ...
         \\ \includegraphics[width=0.5\linewidth]{ncliste.jpeg}
         \\
-        on the victim's machine ...
+        on the victim's machine we configured the DNS Spoof , so the malware is
+        going to connect to our command and control server and not to the atacker server...
         \\ \includegraphics[width=0.5\linewidth]{ncvictim.jpeg}
         \\
+        now, we are going to test the connection between the machines with the
+        DNS spoofed...
+        \\
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=0.8\linewidth]{connections.jpeg}
+            \caption{Connections}
+            \label{fig:connections}
+        \end{figure}
 
         \subsection{Start the malicious service in the infected machine using
         the command: net start IPRIP}
 
+        \\ now we initialized the service IPRIP. notice that the service was
+        already initialized because we already found this service in previous
+        section of this analysis.
+               \\
+
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=0.5\linewidth]{iprip.jpeg}
+            \caption{Service Initialized}
+            \label{IPRIP}
+        \end{figure}
+
+
         \subsection{Why IPRIP? Did you find the word (IPRIP) in some of the
         previous steps?}
+
+            We found it interesting because it was
+            consuming svchost.exe, this service allow the attacker to take control
+            of the processes in the  victim's machine.
+
 
         \subsection{Execute Process Explorer. Find the process that is running
         the malware using the "Find DLL" functionality of Process Explorer.
         Identify the Process Id (PID)}
+            using tool FindDll we identified the process that the library is running
+            \\
+            the process id is ...
+            \begin{figure}[h!]
+                \centering
+                \includegraphics[width=0.4\linewidth]{processid.jpeg}
+                \caption{1052}
+                \label{1052}
+            \end{figure}
 
+        \newpage
         \subsection{Execute Process Monitor and search the process using the PID}
+            \\
+            having the process id, we found the process in the process monitor |
+            \begin{figure}[h!]
+                \centering
+                \includegraphics[width=0.4\linewidth]{processmal.jpeg}
+                \caption{process of process id}
+                \label{process id}
+            \end{figure}
 
         \subsection{Create filters to reduce the events to fewer than 10 events
         in the Process Monitor. Use filters that allow to identify keys and
         files modified or created.}
+        we applied those filters ...
+
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=0.4\linewidth]{filters.jpeg}
+            \caption{Filters}
+            \label{fig:filters}
+        \end{figure}
+        and we obtained those results ...
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=0.5\linewidth]{filtered.jpeg}
+            \caption{Filtered}
+            \label{fig:filtered}
+        \end{figure}
 
         \subsection{Does the malware resolve some domain? }
+            yes, it resolving to www.practicalmalwareanalysis.com
 
         \subsection{Configure the nc tool with port 443, 8000 and 80. Which
         port is contacted on that domain? Capture the request done by the
         malware}
+            configuration ...
+            \begin{figure}[h!]
+                \centering
+                \includegraphics[width=0.6\linewidth]{tres.jpeg}
+                \caption{Configuration}
+                \label{configuration}
+            \end{figure}
+
+            we recived communication at port $ 80  $ . and we get this
+            \begin{figure}[h!]
+                \centering
+                \includegraphics[width=0.6\linewidth]{port80.jpeg}
+                \caption{Port80}
+                \label{fig:port80}
+            \end{figure}
 
         \subsection{From all previous answers, identify all host-based
         signatures for this malware.}

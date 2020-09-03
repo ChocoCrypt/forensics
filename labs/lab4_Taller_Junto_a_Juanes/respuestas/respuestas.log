@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  1 SEP 2020 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  2 SEP 2020 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1251,38 +1251,110 @@ Package pdftex.def Info: ./Images/ncliste.jpeg  used on input line 253.
 <./Images/ncvictim.jpeg, id=83, 676.5275pt x 406.51875pt>
 File: ./Images/ncvictim.jpeg Graphic file (type jpg)
 <use ./Images/ncvictim.jpeg>
-Package pdftex.def Info: ./Images/ncvictim.jpeg  used on input line 256.
+Package pdftex.def Info: ./Images/ncvictim.jpeg  used on input line 257.
 (pdftex.def)             Requested size: 189.64871pt x 113.95473pt.
+<./Images/connections.jpeg, id=84, 1284.8pt x 542.025pt>
+File: ./Images/connections.jpeg Graphic file (type jpg)
+<use ./Images/connections.jpeg>
+Package pdftex.def Info: ./Images/connections.jpeg  used on input line 264.
+(pdftex.def)             Requested size: 303.4391pt x 128.01273pt.
+[14 <./Images/ncliste.jpeg> <./Images/ncvictim.jpeg>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--258
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272         \\ n
+                  ow we initialized the service IPRIP. notice that the servi...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
 
  []
 
+<./Images/iprip.jpeg, id=88, 649.42625pt x 334.24875pt>
+File: ./Images/iprip.jpeg Graphic file (type jpg)
+<use ./Images/iprip.jpeg>
+Package pdftex.def Info: ./Images/iprip.jpeg  used on input line 279.
+(pdftex.def)             Requested size: 189.64871pt x 97.60797pt.
+[15 <./Images/connections.jpeg> <./Images/iprip.jpeg>]
+<./Images/processid.jpeg, id=92, 795.97375pt x 274.02374pt>
+File: ./Images/processid.jpeg Graphic file (type jpg)
+<use ./Images/processid.jpeg>
+Package pdftex.def Info: ./Images/processid.jpeg  used on input line 301.
+(pdftex.def)             Requested size: 151.71666pt x 52.22812pt.
+ [16 <./Images/processid.jpeg>]
 
-Overfull \hbox (6.01213pt too wide) in paragraph at lines 282--282
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309             h
+                   aving the process id, we found the process in the process...
+
+? 
+<./Images/processmal.jpeg, id=96, 502.87875pt x 493.845pt>
+File: ./Images/processmal.jpeg Graphic file (type jpg)
+<use ./Images/processmal.jpeg>
+Package pdftex.def Info: ./Images/processmal.jpeg  used on input line 312.
+(pdftex.def)             Requested size: 151.71666pt x 148.99107pt.
+<./Images/filters.jpeg, id=97, 516.93124pt x 306.14375pt>
+File: ./Images/filters.jpeg Graphic file (type jpg)
+<use ./Images/filters.jpeg>
+Package pdftex.def Info: ./Images/filters.jpeg  used on input line 324.
+(pdftex.def)             Requested size: 151.71666pt x 89.84915pt.
+<./Images/filtered.jpeg, id=98, 501.875pt x 560.0925pt>
+File: ./Images/filtered.jpeg Graphic file (type jpg)
+<use ./Images/filtered.jpeg>
+Package pdftex.def Info: ./Images/filtered.jpeg  used on input line 331.
+(pdftex.def)             Requested size: 189.64871pt x 211.64941pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./Images/processmal.jpeg> <./Images/filters.jpeg>]
+<./Images/tres.jpeg, id=102, 1284.8pt x 645.41125pt>
+File: ./Images/tres.jpeg Graphic file (type jpg)
+<use ./Images/tres.jpeg>
+Package pdftex.def Info: ./Images/tres.jpeg  used on input line 345.
+(pdftex.def)             Requested size: 227.58076pt x 114.31755pt.
+<./Images/port80.jpeg, id=103, 670.505pt x 194.7275pt>
+File: ./Images/port80.jpeg Graphic file (type jpg)
+<use ./Images/port80.jpeg>
+Package pdftex.def Info: ./Images/port80.jpeg  used on input line 353.
+(pdftex.def)             Requested size: 227.58076pt x 66.09355pt.
+ [18 <./Images/filtered.jpeg> <./Images/tres.jpeg>]
+Overfull \hbox (6.01213pt too wide) in paragraph at lines 359--359
 |[]\OT1/cmr/bx/n/14.4 From all pre-vi-ous an-swers, iden-tify all host-based
  []
 
-[14 <./Images/ncliste.jpeg> <./Images/ncvictim.jpeg>] [15] (./respuestas.aux) )
- 
+[19 <./Images/port80.jpeg>] (./respuestas.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 15344 strings out of 492982
- 272136 string characters out of 6134896
- 435203 words of memory out of 5000000
- 18735 multiletter control sequences out of 15000+600000
+ 15392 strings out of 492982
+ 273164 string characters out of 6134896
+ 435273 words of memory out of 5000000
+ 18775 multiletter control sequences out of 15000+600000
  538897 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,8n,35p,10426b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on respuestas.pdf (15 pages, 3103738 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on respuestas.pdf (19 pages, 3803614 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
