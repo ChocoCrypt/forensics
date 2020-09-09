@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  4 SEP 2020 04:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  8 SEP 2020 21:46
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**doc.tex
-(./doc.tex
+**lab5_rodrigo_castillo.tex
+(./lab5_rodrigo_castillo.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -22,14 +23,11 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count87
 \calc@Bcount=\count88
@@ -41,44 +39,32 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count89
 \calc@Cskip=\skip45
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
-
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -90,17 +76,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -110,8 +92,7 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \AM@pagewidth=\dimen107
 \AM@pageheight=\dimen108
-
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box26
@@ -119,19 +100,14 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks16
 \c@AM@survey=\count90
 \AM@templatesizebox=\box27
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/transparent.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/transparent.sty
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count91
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box28
 \beforetitleunit=\skip46
@@ -142,21 +118,17 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidth=\dimen111
 \titlewidthlast=\dimen112
 \titlewidthfirst=\dimen113
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip48
 \thanksmargin=\skip49
 \droptitle=\skip50
-)
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count92
@@ -171,11 +143,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen120
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count95
 \lst@gtempboxa=\box29
 \lst@token=\toks19
@@ -194,30 +164,25 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count101
 \lst@skipnumbers=\count102
 \lst@framebox=\box30
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen126
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen127
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count103
@@ -257,30 +222,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pagecolor/pagecolor.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/pagecolor/pagecolor.sty
 Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -288,15 +246,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-))))
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+)))) (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2018/02/21 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/02/21 L3 programming layer (code)
 \c_max_int=\count115
 \l_tmpa_int=\count116
@@ -439,8 +393,7 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen163
 \l__coffin_scaled_total_height_dim=\dimen164
 \l__coffin_scaled_width_dim=\dimen165
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count198
 \l__driver_tmp_box=\box48
@@ -451,23 +404,17 @@ Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_m_args_int=\count267
 \l__xparse_mandatory_args_int=\count268
 \l__xparse_v_nesting_int=\count269
-)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count270
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
 Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -479,8 +426,7 @@ Package zref Info: New property: page on input line 761.
 )
 \c@abspage=\count271
 Package zref Info: New property: abspage on input line 62.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip60
@@ -524,8 +470,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitlebelowskip@length=\skip97
 \mdf@subsubtitleinneraboveskip@length=\skip98
 \mdf@subsubtitleinnerbelowskip@length=\skip99
-
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+ (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box49
@@ -581,22 +526,17 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count276
 \c@mdf@zref@counter=\count277
 Package zref Info: New property: mdf@pagevalue on input line 895.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2018/02/14 3.18 Babel switching mechanism
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count278
 \U@D=\dimen166
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count279
 )
 \es@quottoks=\toks25
@@ -605,20 +545,17 @@ Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks26
 \inpenc@posthook=\toks27
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+ (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -899,8 +836,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -923,8 +859,7 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip127
 \LTright=\skip128
@@ -941,8 +876,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@tables=\count284
 \c@LT@chunks=\count285
 \LT@p@ftn=\toks28
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count286
 \mult@box=\box58
@@ -992,11 +926,11 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mc@col@check@num=\count294
 )
 \GPT@outputbox=\box84
- (./doc.aux
+ (./lab5_rodrigo_castillo.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
-\openout1 = `doc.aux'.
+\openout1 = `lab5_rodrigo_castillo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
@@ -1011,8 +945,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 \AtBeginShipoutBox=\box85
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count295
 \scratchdimen=\dimen177
@@ -1027,25 +960,18 @@ LaTeX Font Info:    ... okay on input line 36.
 \everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -1087,430 +1013,65 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \c@lstlisting=\count301
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
-! Undefined control sequence.
-<argument> \rmfamily \normalfont \spacedallcaps 
-                                                {Approach to binary exploita...
-l.38 ...dallcaps{Approach to binary exploitation}}
-                                                  
-? 
-! Undefined control sequence.
-<argument> \spacedlowsmallcaps 
-                               {Rodrigo Castillo}
-l.39 ...hor{\spacedlowsmallcaps{Rodrigo Castillo}}
-                                                  
-? 
-! Undefined control sequence.
-\@title ->\rmfamily \normalfont \spacedallcaps 
-                                               {Approach to binary exploitat...
-l.42     \maketitle
-                   
-? 
 LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 42.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-! Undefined control sequence.
-\@author ->\spacedlowsmallcaps 
-                               {Rodrigo Castillo}
-l.42     \maketitle
-                   
-? 
 <./Images/negro_cara.png, id=1, 244.7544pt x 265.9536pt>
 File: ./Images/negro_cara.png Graphic file (type png)
 <use ./Images/negro_cara.png>
 Package pdftex.def Info: ./Images/negro_cara.png  used on input line 46.
 (pdftex.def)             Requested size: 39.75317pt x 43.19463pt.
-<./Images/very_simple_crackme.png, id=3, 859.21pt x 479.7925pt>
-File: ./Images/very_simple_crackme.png Graphic file (type png)
-<use ./Images/very_simple_crackme.png>
-Package pdftex.def Info: ./Images/very_simple_crackme.png  used on input line 5
-5.
-(pdftex.def)             Requested size: 318.00726pt x 177.579pt.
-<./Images/accessdenied.png, id=4, 843.15pt x 87.32625pt>
-File: ./Images/accessdenied.png Graphic file (type png)
-<use ./Images/accessdenied.png>
-Package pdftex.def Info: ./Images/accessdenied.png  used on input line 64.
-(pdftex.def)             Requested size: 198.75378pt x 20.58429pt.
-[1
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/negro_cara.png> <
-./Images/very_simple_crackme.png> <./Images/accessdenied.png>]
-<./Images/disassamblyflavor.png, id=17, 1762.585pt x 495.8525pt>
-File: ./Images/disassamblyflavor.png Graphic file (type png)
-<use ./Images/disassamblyflavor.png>
-Package pdftex.def Info: ./Images/disassamblyflavor.png  used on input line 94.
-
-(pdftex.def)             Requested size: 318.00726pt x 89.46144pt.
-<./Images/functions.png, id=18, 812.03375pt x 428.60126pt>
-File: ./Images/functions.png Graphic file (type png)
-<use ./Images/functions.png>
-Package pdftex.def Info: ./Images/functions.png  used on input line 104.
-(pdftex.def)             Requested size: 198.75378pt x 104.90031pt.
- [2 <./Images/disassamblyflavor.png> <./Images/functions.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.113             \\ s
-                      o what we are going to do is to check the disassembly ...
-
-? 
-<./Images/main.png, id=24, 1053.9375pt x 898.35625pt>
-File: ./Images/main.png Graphic file (type png)
-<use ./Images/main.png>
-Package pdftex.def Info: ./Images/main.png  used on input line 118.
-(pdftex.def)             Requested size: 238.50696pt x 203.3003pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--151
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/negro_cara.png>] [2]
+Overfull \hbox (1.38043pt too wide) in paragraph at lines 162--162
+\OT1/cmr/bx/n/14.4 x86 ar-chi-tec-tu-res and ex-plain its pur-po-se (mov, add,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--151
-
+Overfull \hbox (449.97267pt too wide) in paragraph at lines 162--162
+\OT1/cmr/bx/n/14.4 push, call, xor, cmp). Full do-cu-men-ta-tion: https://software.intel.com/content/www/us/en/develop/download/intel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--151
+Overfull \hbox (11.18692pt too wide) in paragraph at lines 162--162
+\OT1/cmr/bx/n/14.4 64-and-ia-32-architectures-sdm-combined-volumes-1-
+ []
+
+[3]
+<./Images/service.png, id=22, 1037.8775pt x 26.0975pt>
+File: ./Images/service.png Graphic file (type png)
+<use ./Images/service.png>
+Package pdftex.def Info: ./Images/service.png  used on input line 193.
+(pdftex.def)             Requested size: 318.00726pt x 7.99615pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--195
 
  []
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.152             \\ f
-                      irst , we are going to set a breakpoint on memory spac...
-
-? 
-<./Images/running.png, id=25, 807.015pt x 246.9225pt>
-File: ./Images/running.png Graphic file (type png)
-<use ./Images/running.png>
-Package pdftex.def Info: ./Images/running.png  used on input line 155.
-(pdftex.def)             Requested size: 159.0006pt x 48.64891pt.
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.157             \\  w
-                       ith $ ni  $ we can run next intructon, so what we are...
-
-? 
-<./Images/pasopaso.png, id=26, 524.96124pt x 380.42125pt>
-File: ./Images/pasopaso.png Graphic file (type png)
-<use ./Images/pasopaso.png>
-Package pdftex.def Info: ./Images/pasopaso.png  used on input line 164.
-(pdftex.def)             Requested size: 159.0006pt x 115.21854pt.
-<./Images/testaca.png, id=27, 472.76625pt x 294.09875pt>
-File: ./Images/testaca.png Graphic file (type png)
-<use ./Images/testaca.png>
-Package pdftex.def Info: ./Images/testaca.png  used on input line 169.
-(pdftex.def)             Requested size: 198.75378pt x 123.64178pt.
-[3 <./Images/main.png> <./Images/running.png>]
-<./Images/infor.png, id=36, 942.52126pt x 801.99625pt>
-File: ./Images/infor.png Graphic file (type png)
-<use ./Images/infor.png>
-Package pdftex.def Info: ./Images/infor.png  used on input line 176.
-(pdftex.def)             Requested size: 159.0006pt x 135.28513pt.
- [4 <./Images/pasopaso.png> <./Images/testaca.png> <./Images/infor.png>]
-<./Images/concedido.png, id=43, 575.14874pt x 348.30125pt>
-File: ./Images/concedido.png Graphic file (type png)
-<use ./Images/concedido.png>
-Package pdftex.def Info: ./Images/concedido.png  used on input line 188.
-(pdftex.def)             Requested size: 318.00726pt x 192.58669pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--201
-
- []
-
-[5 <./Images/concedido.png>] [6]
-<./Images/flood.png, id=51, 787.94376pt x 886.31125pt>
-File: ./Images/flood.png Graphic file (type png)
-<use ./Images/flood.png>
-Package pdftex.def Info: ./Images/flood.png  used on input line 214.
-(pdftex.def)             Requested size: 318.00726pt x 357.69635pt.
- [7 <./Images/flood.png>]
-<./Images/primerif.png, id=57, 797.98125pt x 522.95375pt>
-File: ./Images/primerif.png Graphic file (type png)
-<use ./Images/primerif.png>
-Package pdftex.def Info: ./Images/primerif.png  used on input line 227.
-(pdftex.def)             Requested size: 198.75378pt x 130.25136pt.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.232             \\ T
-                      hen, there are two options...
-? 
-<./Images/options.png, id=58, 1463.4675pt x 920.43875pt>
-File: ./Images/options.png Graphic file (type png)
-<use ./Images/options.png>
-Package pdftex.def Info: ./Images/options.png  used on input line 235.
-(pdftex.def)             Requested size: 318.00726pt x 200.01123pt.
-[8 <./Images/primerif.png> <./Images/options.png>]
-<./Images/floodi.png, id=64, 1107.13625pt x 884.30376pt>
-File: ./Images/floodi.png Graphic file (type png)
-<use ./Images/floodi.png>
-Package pdftex.def Info: ./Images/floodi.png  used on input line 245.
-(pdftex.def)             Requested size: 278.25407pt x 222.24931pt.
- (./figures/stack.pdf_tex
-<./figures/stack.pdf, id=65, page=1, 682.86612pt x 341.43306pt>
-File: ./figures/stack.pdf Graphic file (type pdf)
-<use ./figures/stack.pdf, page 1>
-Package pdftex.def Info: ./figures/stack.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 397.50757pt x 198.75546pt.
-)
-(./figures/bof.pdf_tex
-<./figures/bof.pdf, id=66, page=1, 682.86612pt x 341.43306pt>
-File: ./figures/bof.pdf Graphic file (type pdf)
-<use ./figures/bof.pdf, page 1>
-Package pdftex.def Info: ./figures/bof.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 397.50757pt x 198.75546pt.
-
-! Undefined control sequence.
-<argument> \begin {tabular}[t]{l}\xba 
-                                      \ba \end {tabular}
-l.57 ...egin{tabular}[t]{l}\xba\ba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> \begin {tabular}[t]{l}\xba \ba 
-                                          \end {tabular}
-l.57 ...egin{tabular}[t]{l}\xba\ba\end{tabular}}}}
-                                                  %
-? 
-<./figures/bof.pdf, id=67, page=2, 682.86612pt x 341.43306pt>
-File: ./figures/bof.pdf Graphic file (type pdf)
-<use ./figures/bof.pdf, page 2>
-Package pdftex.def Info: ./figures/bof.pdf , page2 used on input line 61.
-(pdftex.def)             Requested size: 397.50757pt x 198.75546pt.
-! Undefined control sequence.
-<recently read> \xbe 
-                     
-l.62 ...l}Input:\\\xbe\xba\xba\xba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> ...in {tabular}[t]{l}Input:\\\xbe \xba 
-                                                  \xba \xba \end {tabular}
-l.62 ...l}Input:\\\xbe\xba\xba\xba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> ...abular}[t]{l}Input:\\\xbe \xba \xba 
-                                                  \xba \end {tabular}
-l.62 ...l}Input:\\\xbe\xba\xba\xba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> ...r}[t]{l}Input:\\\xbe \xba \xba \xba 
-                                                  \end {tabular}
-l.62 ...l}Input:\\\xbe\xba\xba\xba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> \begin {tabular}[t]{l}\xbe 
-                                      \xba \end {tabular}
-l.63 ...gin{tabular}[t]{l}\xbe\xba\end{tabular}}}}
-                                                  %
-? 
-! Undefined control sequence.
-<argument> \begin {tabular}[t]{l}\xbe \xba 
-                                           \end {tabular}
-l.63 ...gin{tabular}[t]{l}\xbe\xba\end{tabular}}}}
-                                                  %
-? 
-<./figures/bof.pdf, id=68, page=3, 682.86612pt x 341.43306pt>
-File: ./figures/bof.pdf Graphic file (type pdf)
-<use ./figures/bof.pdf, page 3>
-Package pdftex.def Info: ./figures/bof.pdf , page3 used on input line 64.
-(pdftex.def)             Requested size: 397.50757pt x 198.75546pt.
-<./figures/bof.pdf, id=69, page=4, 682.86612pt x 341.43306pt>
-File: ./figures/bof.pdf Graphic file (type pdf)
-<use ./figures/bof.pdf, page 4>
-Package pdftex.def Info: ./figures/bof.pdf , page4 used on input line 66.
-(pdftex.def)             Requested size: 397.50757pt x 198.75546pt.
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9 <./Images/floodi.png>]
-<./Images/proto.png, id=74, 749.80125pt x 494.84875pt>
-File: ./Images/proto.png Graphic file (type png)
-<use ./Images/proto.png>
-Package pdftex.def Info: ./Images/proto.png  used on input line 304.
-(pdftex.def)             Requested size: 198.75378pt x 131.17204pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--312
-
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.313                 \\ w
-                          e want to pwn the stack exercises , so we are goin...
-
-? 
-<./Images/source.png, id=75, 1199.48125pt x 709.65125pt>
-File: ./Images/source.png Graphic file (type png)
-<use ./Images/source.png>
-Package pdftex.def Info: ./Images/source.png  used on input line 319.
-(pdftex.def)             Requested size: 198.75378pt x 117.5855pt.
-<./Images/stack0.png, id=76, 684.5575pt x 126.4725pt>
-File: ./Images/stack0.png Graphic file (type png)
-<use ./Images/stack0.png>
-Package pdftex.def Info: ./Images/stack0.png  used on input line 327.
-(pdftex.def)             Requested size: 198.75378pt x 36.71854pt.
-[10 <./figures/stack.pdf> <./figures/bof.pdf
-
-pdfTeX warning: pdflatex (file ./figures/bof.pdf): PDF inclusion: multiple pdfs
- with page group included in a single page
-> <./figures/bof.pdf
-
-pdfTeX warning: pdflatex (file ./figures/bof.pdf): PDF inclusion: multiple pdfs
- with page group included in a single page
-> <./figures/bof.pdf
-
-pdfTeX warning: pdflatex (file ./figures/bof.pdf): PDF inclusion: multiple pdfs
- with page group included in a single page
-> <./figures/bof.pdf
-
-pdfTeX warning: pdflatex (file ./figures/bof.pdf): PDF inclusion: multiple pdfs
- with page group included in a single page
->] [11 <./Images/proto.png> <./Images/source.png> <./Images/stack0.png>]
-<./Images/protofun.png, id=89, 326.21875pt x 403.5075pt>
-File: ./Images/protofun.png Graphic file (type png)
-<use ./Images/protofun.png>
-Package pdftex.def Info: ./Images/protofun.png  used on input line 338.
-(pdftex.def)             Requested size: 198.75378pt x 245.84984pt.
-
-[12 <./Images/protofun.png>]
-<./Images/gets.png, id=94, 1869.98625pt x 174.6525pt>
-File: ./Images/gets.png Graphic file (type png)
-<use ./Images/gets.png>
-Package pdftex.def Info: ./Images/gets.png  used on input line 347.
-(pdftex.def)             Requested size: 198.75378pt x 18.56157pt.
-<./Images/bug.png, id=95, 1106.1325pt x 269.005pt>
-File: ./Images/bug.png Graphic file (type png)
-<use ./Images/bug.png>
-Package pdftex.def Info: ./Images/bug.png  used on input line 359.
-(pdftex.def)             Requested size: 159.0006pt x 38.66608pt.
-<./Images/protomain.png, id=96, 477.785pt x 345.29pt>
-File: ./Images/protomain.png Graphic file (type png)
-<use ./Images/protomain.png>
-Package pdftex.def Info: ./Images/protomain.png  used on input line 369.
-(pdftex.def)             Requested size: 159.0006pt x 114.90494pt.
-<./Images/tryagain.png, id=97, 639.38875pt x 407.5225pt>
-File: ./Images/tryagain.png Graphic file (type png)
-<use ./Images/tryagain.png>
-Package pdftex.def Info: ./Images/tryagain.png  used on input line 380.
-(pdftex.def)             Requested size: 159.0006pt x 101.33937pt.
-<./Images/exploited.png, id=98, 681.54625pt x 377.41pt>
-File: ./Images/exploited.png Graphic file (type png)
-<use ./Images/exploited.png>
-Package pdftex.def Info: ./Images/exploited.png  used on input line 390.
-(pdftex.def)             Requested size: 198.75378pt x 110.06229pt.
-<./Images/exploitpy.png, id=99, 683.55376pt x 195.73125pt>
-File: ./Images/exploitpy.png Graphic file (type png)
-<use ./Images/exploitpy.png>
-Package pdftex.def Info: ./Images/exploitpy.png  used on input line 401.
-(pdftex.def)             Requested size: 198.75378pt x 56.90993pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.406                 \\ a
-                          nd now executing the exploit ...
-? 
-<./Images/booom.png, id=100, 1406.25375pt x 88.33pt>
-File: ./Images/booom.png Graphic file (type png)
-<use ./Images/booom.png>
-Package pdftex.def Info: ./Images/booom.png  used on input line 409.
-(pdftex.def)             Requested size: 198.75378pt x 12.48337pt.
-<./Images/redirectfunctions.png, id=101, 1202.4925pt x 637.38126pt>
-File: ./Images/redirectfunctions.png Graphic file (type png)
-<use ./Images/redirectfunctions.png>
-Package pdftex.def Info: ./Images/redirectfunctions.png  used on input line 419
-.
-(pdftex.def)             Requested size: 198.75378pt x 105.34814pt.
-<./Images/solo.png, id=102, 1188.44pt x 473.77pt>
-File: ./Images/solo.png Graphic file (type png)
-<use ./Images/solo.png>
-Package pdftex.def Info: ./Images/solo.png  used on input line 420.
-(pdftex.def)             Requested size: 198.75378pt x 79.23135pt.
-[13 <./Images/gets.png> <./Images/bug.png> <./Images/protomain.png> <./Images/t
-ryagain.png>] [14 <./Images/exploited.png> <./Images/exploitpy.png> <./Images/b
-ooom.png> <./Images/redirectfunctions.png> <./Images/solo.png>]
-! Undefined control sequence.
-<argument> ...c}{\protect \vspace {\beforebibskip 
-                                                  }}
-l.464 ...nts{toc}{\protect\vspace{\beforebibskip}}
-                                                  
-? 
-No file doc.bbl.
-[15] (./doc.aux
+No file lab5_rodrigo_castillo.bbl.
+[4 <./Images/service.png>] (./lab5_rodrigo_castillo.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 17049 strings out of 492982
- 297357 string characters out of 6134896
- 475158 words of memory out of 5000000
- 20377 multiletter control sequences out of 15000+600000
- 537827 words of font info for 52 fonts, out of 8000000 for 9000
+ 16849 strings out of 492982
+ 293256 string characters out of 6134896
+ 473973 words of memory out of 5000000
+ 20208 multiletter control sequences out of 15000+600000
+ 538138 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,14n,39p,10419b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on doc.pdf (15 pages, 2275724 bytes).
+ 39i,6n,39p,10437b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on lab5_rodrigo_castillo.pdf (4 pages, 133803 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
