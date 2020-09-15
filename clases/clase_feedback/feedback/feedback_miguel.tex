@@ -1,0 +1,84 @@
+% article example for classicthesis.sty
+\documentclass[10pt,a4paper]{article} % KOMA-Script article scrartcl
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+\usepackage{lipsum}     %lorem ipsum text
+\usepackage{titlesec}   %Section settings
+\usepackage{titling}    %Title settings
+\usepackage[margin=10em]{geometry}  %Adjusting margins
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{amsmath}    %Display equations options
+\usepackage{amssymb}    %More symbols
+\usepackage{xcolor}     %Color settings
+\usepackage{pagecolor}
+\usepackage{mdframed}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{graphicx}
+\graphicspath{ {./Images/} }
+\setlength{\columnsep}{1cm}
+
+% ====| color de la pagina y del fondo |==== %
+\pagecolor{white}
+\color{black}
+
+
+
+\begin{document}
+    %========================{TITLE}====================%
+    \title{{  Feedback de miguel  }}
+    \author{{Rodrigo Castillo}}
+    \date{\today}
+
+    \maketitle
+
+
+    %=======================NOTES GOES HERE===================%
+    \section{cosas que me gustaron}
+        en general, todos los conceptos están bien y bien explicados , es lo
+        que un estudiante necesitaría para entender el código assembly de una
+        forma general
+    \section{cosas que no me gustaron}
+        habla de las operaciones en assembly de una forma muy general, por ejemplo,
+        en la seccion de los condicionales , habla de la instrucción $ cmp  $ en
+        general, esto no está propiamente mal, sin embargo, sería más específico si
+        refiriera a los espacios de memoria en los que se ejecuta.
+    \section{nota}
+        \color{red} 4.9 \color{black}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    %=======================NOTES ENDS HERE===================%
+
+    % bib stuff
+    \nocite{*}
+    \addtocontents{toc}{{}}
+    \addcontentsline{toc}{section}{\refname}
+    \bibliographystyle{plain}
+    \bibliography{../Bibliography}
+\end{document}
