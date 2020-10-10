@@ -1,0 +1,265 @@
+% article example for classicthesis.sty
+\documentclass[10pt,a4paper]{article} % KOMA-Script article scrartcl
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+\usepackage{lipsum}     %lorem ipsum text
+\usepackage{titlesec}   %Section settings
+\usepackage{titling}    %Title settings
+\usepackage[margin=10em]{geometry}  %Adjusting margins
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{amsmath}    %Display equations options
+\usepackage{amssymb}    %More symbols
+\usepackage{xcolor}     %Color settings
+\usepackage{pagecolor}
+\usepackage{mdframed}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{graphicx}
+\graphicspath{ {./Images/} }
+\setlength{\columnsep}{1cm}
+
+% ====| color de la pagina y del fondo |==== %
+\pagecolor{white}
+\color{black}
+
+
+
+\begin{document}
+    %========================{TITLE}====================%
+    \title{{  8th Laboratory: Modify execution  }}
+    \author{{Rodrigo Castillo}}
+    \date{\today}
+
+    \maketitle
+
+
+    %=======================NOTES GOES HERE===================%
+    \section{Q: Read section "Debugging" and identify the difference between a
+    "disassembler" and a "debugger", and between a "source-level debugger" and
+    an "Assembly-level debugger".R:}
+        % ====|ACA EMPIEZA EL PUNTO 1|====
+
+        \begin{itemize}
+            \item {The main difference between a disassembler an a debugger is
+                that a disassambler cant run instructions, it only print them,
+            a debugger run instructions step by step , but not necesary print them}
+
+            \item {a source-level debugger is a debugger that is made for
+                debugging code, so for example, visual studio code has a
+            debugger, an asembly level debugger is made for undertanding
+            binaries, so it run machine instructions instead of code instructions}
+        \end{itemize}
+
+        % ====|ACA TERMINA EL PUNTO 1|==== %
+
+    \section{Debugging an application in user mode implies that the debugger
+    application (WinDbg or OllyDbg) is running on the same system as the code
+    being debugged. Explain how kernel debugging is performed?}
+
+    % ====|ACA EMPIEZA EL PUNTO 2|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 2|==== %
+
+
+    \section{Q: Read the section "Pausing Execution with Breakpoints" and
+    explain the differences between "Software Execution Breakpoints", "Hardware
+    Execution Breakpoints" and "Conditional Breakpoints" through the following
+    table.}
+    % ====|ACA EMPIEZA EL PUNTO 3|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 3|==== %
+
+    \section{Table}
+
+    % ====|ACA EMPIEZA EL PUNTO 4|====
+
+        \textbf{Software execution Breakpoints:}
+        \begin{enumerate}
+            \item {Prupose of breakpoint:}
+            \item {Number of supported breakpoints:}
+            \item {How it works:}
+            \item {Drawbacks:}
+        \end{enumerate}
+
+        \textbf{Hardware execution Breakpoints}
+        \begin{enumerate}
+            \item {Prupose of breakpoint:}
+            \item {Number of supported breakpoints:}
+            \item {How it works:}
+            \item {Drawbacks:}
+        \end{enumerate}
+
+        \textbf{Conditional Breakpoints:}
+        \begin{enumerate}
+            \item {Prupose of breakpoint:}
+            \item {Number of supported breakpoints:}
+            \item {How it works:}
+            \item {Drawbacks:}
+        \end{enumerate}
+
+    % ====|ACA TERMINA EL PUNTO 4|==== %
+
+
+    \section{Q: Read the section "Exceptions" and explain the difference
+    between a first and second chance exception.}
+
+        % ====|ACA EMPIEZA EL PUNTO 5|====
+
+
+
+        % ====|ACA TERMINA EL PUNTO 5|==== %
+
+
+    \section{Q: Explain the differences between , an exception induced by a
+    breakpoint, , an exception from a single-stepping and , a
+    memory-access violation exception.}
+    % ====|ACA EMPIEZA EL PUNTO 6|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 6|==== %
+
+    \section{Q: Download OllyDBG from http://www.ollydbg.de/odbg110.zip and
+    PowerISO from
+    http://nourinfo.com/tools/Power\%20ISO\%206.6/PowerISO6.exe. Then, crack
+    PowerISO to achieve to use the application without a valid "registration
+    code"}
+    % ====|ACA EMPIEZA EL PUNTO 7|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 7|==== %
+
+    \section{R: Put here a screenshot of PowerISO displaying the message:
+    "Thanks for your registration"}
+    % ====|ACA EMPIEZA EL PUNTO 8|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 8|==== %
+
+    \section{Q: Try to open netcat using the arguments -l -p 443}
+    % ====|ACA EMPIEZA EL PUNTO 9|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 9|==== %
+
+    \section{R: Put here the full screenshot that show "nc" running from the
+    debugger and receiving messages by the port 443 sent from another console
+    that has a telnet app started.}
+    % ====|ACA EMPIEZA EL PUNTO 10|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 10|==== %
+
+    \section{Q: From the previous questions. The address of netcat's System
+    Startup breakpoint is at 7C91120F. The address of netcat's Entrypoint is at
+    00401160. Explain how may I control where the application being opened by
+    Ollydbg is PAUSED?}
+    % ====|ACA EMPIEZA EL PUNTO 11|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 11|==== %
+
+    \section{Q: Read the section "The OllyDbg Interface" and explain what is
+    contained in each of the four windows (Disasssembler window, Registers
+    window, Stack window, Memory dump window) that are opened when OllyDBG starts
+    an application.}
+
+    % ====|ACA EMPIEZA EL PUNTO 12|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 12|==== %
+
+
+    \section{Q: Read the section "(RAM) Memory Map" and explain in your own
+    words the concept of "rebased" and the issues that an "absolute address"
+    brings.}
+    % ====|ACA EMPIEZA EL PUNTO 13|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 13|==== %
+
+    \section{Q: Read the section "Execute code" and explain how stepping-over
+    works.}
+
+    % ====|ACA EMPIEZA EL PUNTO 14|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 14|==== %
+
+    \section{Q: Read the section "Breakpoints" and explain when would it be
+    useful to employ a "Conditional breakpoint" (Fig 9-8).}
+
+    % ====|ACA EMPIEZA EL PUNTO 15|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 15|==== %
+
+    \section{Q: Read section "Loading DLLs" and try uploading a DLL malware
+    file which we know has an export function.}
+    % ====|ACA EMPIEZA EL PUNTO 16|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 16|==== %
+
+
+
+    % ====| ACA EMPIEZA LA PARTE PRACTICA DIOOOS QUE TALLER TAN GONORREA |==== %
+
+
+
+    \section{Q: What is the purpose of the argument -in?}
+    % ====|ACA EMPIEZA EL PUNTO 17|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 17|==== %
+
+    \section{Q: Which situations could provoke that the malware delete itself?}
+    % ====|ACA EMPIEZA EL PUNTO 18|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 18|==== %
+
+    \section{Q: Achieve that that the malware gets executed even if not having
+    the right password}
+    % ====|ACA EMPIEZA EL PUNTO 19|====
+
+
+
+    % ====|ACA TERMINA EL PUNTO 19|==== %
+
+
+    % ====| ACA ACABA EL TRABAJO |==== %
+    %=======================NOTES ENDS HERE===================%
+
+    % bib stuff
+    \nocite{*}
+    \addtocontents{toc}{{}}
+    \addcontentsline{toc}{section}{\refname}
+    \bibliographystyle{plain}
+    \bibliography{../Bibliography}
+\end{document}
