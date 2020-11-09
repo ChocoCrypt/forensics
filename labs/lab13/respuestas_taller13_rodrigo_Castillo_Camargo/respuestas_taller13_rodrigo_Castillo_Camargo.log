@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  9 NOV 2020 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.30)  9 NOV 2020 18:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -906,7 +906,20 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mc@col@check@num=\count291
 )
 \GPT@outputbox=\box84
- (./respuestas_taller13_rodrigo_Castillo_Camargo.aux)
+ (./respuestas_taller13_rodrigo_Castillo_Camargo.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 \openout1 = `respuestas_taller13_rodrigo_Castillo_Camargo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -922,8 +935,7 @@ LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 \AtBeginShipoutBox=\box85
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count292
 \scratchdimen=\dimen176
@@ -1002,34 +1014,84 @@ File: ./Images/negro_cara.png Graphic file (type png)
 <use ./Images/negro_cara.png>
 Package pdftex.def Info: ./Images/negro_cara.png  used on input line 45.
 (pdftex.def)             Requested size: 39.75317pt x 43.19463pt.
-<./Images/script.png, id=3, 523.9575pt x 430.60875pt>
-File: ./Images/script.png Graphic file (type png)
-<use ./Images/script.png>
-Package pdftex.def Info: ./Images/script.png  used on input line 54.
-(pdftex.def)             Requested size: 198.75378pt x 163.3439pt.
-<./Images/result.png, id=4, 711.65875pt x 320.19624pt>
-File: ./Images/result.png Graphic file (type png)
-<use ./Images/result.png>
-Package pdftex.def Info: ./Images/result.png  used on input line 55.
-(pdftex.def)             Requested size: 198.75378pt x 89.4247pt.
 
-No file respuestas_taller13_rodrigo_Castillo_Camargo.bbl.
+Overfull \hbox (0.8304pt too wide) in paragraph at lines 49--49
+|[]\OT1/cmr/bx/n/14.4 Read the sec-tion "Re-copi-laci^^Son de ev-i-den-cias" at page
+ []
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/negro_cara.png> <./Images/script.png> <./Images/result.png>] (./respuestas_taller13_rodrigo_Castillo_Camargo.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/negro_cara.png>]
+<./Images/script.png, id=13, 523.9575pt x 430.60875pt>
+File: ./Images/script.png Graphic file (type png)
+<use ./Images/script.png>
+Package pdftex.def Info: ./Images/script.png  used on input line 83.
+(pdftex.def)             Requested size: 198.75378pt x 163.3439pt.
+<./Images/result.png, id=14, 711.65875pt x 320.19624pt>
+File: ./Images/result.png Graphic file (type png)
+<use ./Images/result.png>
+Package pdftex.def Info: ./Images/result.png  used on input line 84.
+(pdftex.def)             Requested size: 198.75378pt x 89.4247pt.
+ [2 <./Images/script.png> <./Images/result.png>]
+<./Images/imageinfo.png, id=21, 1360.08125pt x 367.3725pt>
+File: ./Images/imageinfo.png Graphic file (type png)
+<use ./Images/imageinfo.png>
+Package pdftex.def Info: ./Images/imageinfo.png  used on input line 108.
+(pdftex.def)             Requested size: 318.00726pt x 85.8953pt.
+<./Images/pstree.png, id=22, 1435.3625pt x 882.29625pt>
+File: ./Images/pstree.png Graphic file (type png)
+<use ./Images/pstree.png>
+Package pdftex.def Info: ./Images/pstree.png  used on input line 115.
+(pdftex.def)             Requested size: 397.50757pt x 244.33525pt.
+<./Images/connscan.png, id=23, 1050.92625pt x 242.9075pt>
+File: ./Images/connscan.png Graphic file (type png)
+<use ./Images/connscan.png>
+Package pdftex.def Info: ./Images/connscan.png  used on input line 122.
+(pdftex.def)             Requested size: 318.00726pt x 73.5029pt.
+<./Images/sockets.png, id=24, 1274.7625pt x 502.87875pt>
+File: ./Images/sockets.png Graphic file (type png)
+<use ./Images/sockets.png>
+Package pdftex.def Info: ./Images/sockets.png  used on input line 129.
+(pdftex.def)             Requested size: 318.00726pt x 125.4508pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Images/malfind.png, id=25, 731.73375pt x 885.3075pt>
+File: ./Images/malfind.png Graphic file (type png)
+<use ./Images/malfind.png>
+Package pdftex.def Info: ./Images/malfind.png  used on input line 136.
+(pdftex.def)             Requested size: 318.00726pt x 384.75443pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Images/procdumpin.png, id=26, 1168.365pt x 112.42pt>
+File: ./Images/procdumpin.png Graphic file (type png)
+<use ./Images/procdumpin.png>
+Package pdftex.def Info: ./Images/procdumpin.png  used on input line 143.
+(pdftex.def)             Requested size: 318.00726pt x 30.5991pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+No file respuestas_taller13_rodrigo_Castillo_Camargo.bbl.
+[3 <./Images/imageinfo.png> <./Images/pstree.png> <./Images/connscan.png>] [4 <./Images/sockets.png> <./Images/malfind.png> <./Images/procdumpin.png>] (./respuestas_taller13_rodrigo_Castillo_Camargo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 15950 strings out of 492982
- 281700 string characters out of 6134896
- 448132 words of memory out of 5000000
- 19329 multiletter control sequences out of 15000+600000
+ 15983 strings out of 492982
+ 282411 string characters out of 6134896
+ 449187 words of memory out of 5000000
+ 19356 multiletter control sequences out of 15000+600000
  536129 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,7n,39p,10460b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on respuestas_taller13_rodrigo_Castillo_Camargo.pdf (1 page, 183262 bytes).
+Output written on respuestas_taller13_rodrigo_Castillo_Camargo.pdf (4 pages, 2122851 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
