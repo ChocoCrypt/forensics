@@ -1,0 +1,1000 @@
+ 1062  ls
+ 1063  vim get_full_content_link.py 
+ 1064  ls
+ 1065  vim get_full_content_link.py 
+ 1066  ls
+ 1067  vim get_full_content_link.py 
+ 1068  ls
+ 1069  vim get_full_content_link.py 
+ 1070  ls
+ 1071  vim get_
+ 1072  vim get_full_content_link.py 
+ 1073  ls
+ 1074  ls
+ 1075  vim get_full_content_link.py 
+ 1076  ls
+ 1077  cd prepagos_info2/
+ 1078  ls
+ 1079  vim get_full_content_link.py 
+ 1080  ls
+ 1081  python3 get_full_content_link.py 
+ 1082  ls
+ 1083  rm prepagos.json 
+ 1084  vim get_full_content_link.py 
+ 1085  ls
+ 1086  code prepagos.json 
+ 1087  ls
+ 1088  rm prepagos.json 
+ 1089  ls
+ 1090  vim get_full_content_link.py 
+ 1091  ls
+ 1092  vim prepagos_info2/
+ 1093  ls
+ 1094  cd prepagos_info2/
+ 1095  ls
+ 1096  vim get_full_content_link.py 
+ 1097  ls
+ 1098  vim get_full_content_link.py 
+ 1099  ls
+ 1100  code prepagos.json 
+ 1101  ls
+ 1102  rm prepagos.json 
+ 1103  ls
+ 1104  vim get_
+ 1105  vim get_full_content_link.py 
+ 1106  ls
+ 1107  rm prepagos.json 
+ 1108  ls
+ 1109  code prepagos.json 
+ 1110  ks
+ 1111  ls
+ 1112  vim get_full_content_link.py 
+ 1113  ls
+ 1114  vim get_full_content_link.py 
+ 1115  ls
+ 1116  cd prepagos_info2/
+ 1117  vim algo.pt
+ 1118  vim algo.py
+ 1119  ls
+ 1120  code prepagos.json 
+ 1121  ls
+ 1122  vim algo.py 
+ 1123  ls
+ 1124  rm algo.py 
+ 1125  ls
+ 1126  rm prepagos.json 
+ 1127  vim get_
+ 1128  ls
+ 1129  vim get_full_content_link.py 
+ 1130  ls
+ 1131  code prepagos.json 
+ 1132  ls
+ 1133  proxychains python3 get_full_content_link.py 
+ 1134  ls
+ 1135  cd ../prepagos_info2/
+ 1136  ls
+ 1137  mkdir imagenes_puticas
+ 1138  cd imagenes_puticas/
+ 1139  ls
+ 1140  vim imagenes.py
+ 1141  python
+ 1142  ls
+ 1143  xdg-open .
+ 1144  ls
+ 1145  exiftool *
+ 1146  ls
+ 1147  xdg-open .
+ 1148  ls
+ 1149  rm *jpg
+ 1150  ls
+ 1151  rm *1
+ 1152  ls
+ 1153  rm wget-log 
+ 1154  ls
+ 1155  cd  ..
+ 1156  l
+ 1157  scd prepagos_info2/
+ 1158  ls
+ 1159  cd prepagos_info2/
+ 1160  ls
+ 1161  vim get_full_content_link.py 
+ 1162  sudo anonsurf start
+ 1163  ls
+ 1164  rm prepagos.json 
+ 1165  python3 get_full_content_link.py 
+ 1166  google
+ 1167  go
+ 1168  google
+ 1169  whatsapp 
+ 1170  urosario_pimp 
+ 1171  ls
+ 1172  cd Semestre2020-2/forensics/
+ 1173  ls
+ 1174  cd l
+ 1175  cd labs/
+ 1176  ls
+ 1177  mkdir lab11_12
+ 1178  cd lab
+ 1179  cd lab11_12/
+ 1180  ls
+ 1181  nuevotex respuestas_rodrigo_castillo
+ 1182  cd respuestas_rodrigo_castillo/
+ 1183  vim respuestas_rodrigo_castillo.tex 
+ 1184  ls
+ 1185  ping www.google.com
+ 1186  sudo anonsurf stop
+ 1187  l
+ 1188  python3 get_full_content_link.py 
+ 1189  ls
+ 1190  cat prepagos.json 
+ 1191  eaulas 
+ 1192  reboot 
+ 1193  ls
+ 1194  wget http://challenges.nactf.com/flag.png
+ 1195  ls
+ 1196  cd Downloads/
+ 1197  ls
+ 1198  xdg-open gummy.png 
+ 1199  exiftool gummy.png 
+ 1200  ls
+ 1201  xdg-open meme-3.jpg 
+ 1202  exiftool meme-3.jpg 
+ 1203  python -c print("A"*64)
+ 1204  python -c 'print("A"*64)'
+ 1205  vim script
+ 1206  ls
+ 1207  vim script.py
+ 1208  ls
+ 1209  rm geckodriver.log 
+ 1210  xdg-open s
+ 1211  xdg-open sapaperra.png 
+ 1212  rm sapaperra.png 
+ 1213  ls
+ 1214  mv script.py nasmCTF.py 
+ 1215  ls
+ 1216  vim nasmCTF.py 
+ 1217  ls
+ 1218  python3 nasmCTF.py 
+ 1219  ls
+ 1220  cd Downloads/
+ 1221  ls
+ 1222  rm *
+ 1223  ls
+ 1224  cat enc.txt 
+ 1225  ls
+ 1226  vim enc.txt 
+ 1227  ls
+ 1228  cat enc.txt 
+ 1229  ls
+ 1230  cd Downloads/
+ 1231  ls
+ 1232  unzip flag.zip 
+ 1233  ls
+ 1234  cat flag.txt 
+ 1235  cat flag.txt |grep nactf
+ 1236  ls
+ 1237  rm flag.txt 
+ 1238  rm flag.zip 
+ 1239  ls
+ 1240  rm *
+ 1241  ls
+ 1242  cat flag.txt 
+ 1243  vim flag.txt 
+ 1244  ls
+ 1245  vim script.py
+ 1246  vim flag.txt 
+ 1247  ls
+ 1248  cat flag.txt 
+ 1249  ls
+ 1250  cd DOw
+ 1251  cd Downloads/
+ 1252  ls
+ 1253  cat greeter.c 
+ 1254  man 3 puts
+ 1255  nc challenges.ctfd.io 30249
+ 1256  nc challenges.ctfd.io 30252
+ 1257  ls
+ 1258  cd DOw
+ 1259  cd Downloads/
+ 1260  ls
+ 1261  xdg-open turnip-for-what.jpg 
+ 1262  exiftool turnip-for-what.jpg 
+ 1263  file turnip-for-what.jpg 
+ 1264  xdg-open turnip-for-what.jpg 
+ 1265  ls
+ 1266  ls
+ 1267  wget https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css
+ 1268  ls
+ 1269  cat materialize.min.css |grep nactf
+ 1270  ls
+ 1271  cd Downloads/
+ 1272  ls
+ 1273  file gfc1 
+ 1274  r2 gfc1 
+ 1275  ls
+ 1276  ./gfc1
+ 1277  sudo ./gfc1
+ 1278  chmod +x  gfc1 
+ 1279  ./gfc1 
+ 1280  vim gfc1 
+ 1281  strings gfc1 
+ 1282  ls
+ 1283  cd Downloads/
+ 1284  ls
+ 1285  vim binary.py
+ 1286  ls
+ 1287  python3 binary.py 
+ 1288  python3 binary.py | grep 'nactf"
+ 1289  python3 binary.py | grep 'nactf'
+ 1290  python3 binary.py |grep 'nactf'
+ 1291  python3 binary.py |grep 'na'
+ 1292  python3 binary.py |grep na
+ 1293  python3 binary.py 
+ 1294  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+ 1295  ls
+ 1296  vim binary.py 
+ 1297  python3 binary.py 
+ 1298  python3 binary.py |grep nactf
+ 1299  python3 binary.py |grep ctf
+ 1300  python3 binary.py |grep -o 'nactf'
+ 1301  python3 binary.py >> out.txt
+ 1302  vim out.txt 
+ 1303  ls
+ 1304  cat turnip-for-what.jpg 
+ 1305  strings turnip-for-what.jpg 
+ 1306  ls
+ 1307  strings flag.mp3 
+ 1308  strings flag.mp3 |grep nactf
+ 1309  ls
+ 1310  rm *
+ 1311  lls
+ 1312  ls
+ 1313  Dls
+ 1314  ls
+ 1315  cat file.txt 
+ 1316  file file.txt 
+ 1317  strings file.txt 
+ 1318  strings file.txt |grep nactf
+ 1319  strings file.txt |grep -o 'nactf
+ 1320  strings file.txt |grep -o 'nactf'
+ 1321  ls
+ 1322  vim file.txt 
+ 1323  ls
+ 1324  rm file.txt 
+ 1325  ls
+ 1326  xdg-open flag.png 
+ 1327  rm flag.png 
+ 1328  ls
+ 1329  unzip flag.zip 
+ 1330  ls
+ 1331  cat direction.txt 
+ 1332  unzip 1000left.zip 
+ 1333  ls
+ 1334  rm *
+ 1335  ls
+ 1336  s
+ 1337  ñs
+ 1338  ls
+ 1339  unzip flag.zip 
+ 1340  ls
+ 1341  cat direction.txt 
+ 1342  mls
+ 1343  ls
+ 1344  rm *
+ 1345  ls
+ 1346  file gfc2 
+ 1347  r2 gfc2 
+ 1348  ls
+ 1349  rm gfc2 
+ 1350  ls
+ 1351  vim problema.txt 
+ 1352  ls
+ 1353  ls
+ 1354  chmod +x gfc2 
+ 1355  strings gfc2 
+ 1356  reboot 
+ 1357  ls
+ 1358  ls
+ 1359  cat zip_madness/flag.zip 
+ 1360  cd zip_madness/
+ 1361  ls
+ 1362  unzip flag.zip 
+ 1363  ls
+ 1364  unzip 1000left.zip 
+ 1365  ls
+ 1366  cat direction.txt 
+ 1367  ls
+ 1368  rm 1000left.zip 
+ 1369  unzip 999left.zip 
+ 1370  ls
+ 1371  rm 999left.zip 
+ 1372  ls
+ 1373  zip --help
+ 1374  unzip --help
+ 1375  ls
+ 1376  unzip 998left.zip 
+ 1377  ls
+ 1378  cd Downloads/
+ 1379  ls
+ 1380  rm * -r 
+ 1381  ls
+ 1382  unzip flag.zip 
+ 1383  unzip *
+ 1384  ls
+ 1385  rm 1000* direction.txt 
+ 1386  ls
+ 1387  vim decompressor.py
+ 1388  ls
+ 1389  unzip flag.zip 
+ 1390  ls
+ 1391  mv flag.zip  zip_madness.zip 
+ 1392  mv zip_madness.zip  ..
+ 1393  ls
+ 1394  vim script.py
+ 1395  ls
+ 1396  rm ghidra_9.1.2_PUBLIC/
+ 1397  ls
+ 1398  mv ghidra_9.1.2_PUBLIC/ ../Documents/
+ 1399  s
+ 1400  ls
+ 1401  mv script.py zip_madness.py
+ 1402  mv zip_madness.py  ..
+ 1403  vim ../zip_madness.
+ 1404  vim ../zip_madness.py 
+ 1405  ls
+ 1406  chmod +x gfc2 
+ 1407  strings gfc2 
+ 1408  ./gfc2 
+ 1409  r2 gfc2 
+ 1410  gls
+ 1411  ls
+ 1412  gdb gfc2
+ 1413  ls
+ 1414  cd ../Documents/ghidra_9.1.2_PUBLIC/
+ 1415  ls
+ 1416  ./ghidraRun 
+ 1417  cat ghidraRun
+ 1418  ls
+ 1419  cd Ghidra/
+ 1420  ls
+ 1421  cd ..
+ 1422  ls
+ 1423  wine64 ghidraRun
+ 1424  ls
+ 1425  cd 
+ 1426  ls
+ 1427  cd DOw
+ 1428  cd Downloads/
+ 1429  ls
+ 1430  rm gfc2 
+ 1431  cat arithmetic.c 
+ 1432  ls
+ 1433  rm arithmetic.c 
+ 1434  vim ordenar_vegetales.py
+ 1435  unzip 1000left.zip 
+ 1436  ls
+ 1437  rm 1000left.zip 
+ 1438  ls
+ 1439  cd ..
+ 1440  ls
+ 1441  cp zip_madness.zip Downloads/
+ 1442  cd Downloads/
+ 1443  ls
+ 1444  unzip zip_madness.zip 
+ 1445  ls
+ 1446  rm zip_madness.zip 
+ 1447  ls
+ 1448  cp ../zip_madness.zip .
+ 1449  unzip zip_madness.zip 
+ 1450  ls
+ 1451  unzip 1000left.zip 
+ 1452  ls
+ 1453  cls
+ 1454  ls
+ 1455  cp ../zip_madness.zip .
+ 1456  ls
+ 1457  unzip zip_madness.zip 
+ 1458  ls
+ 1459  cat direction.txt 
+ 1460  rm 2left.zip 
+ 1461  unzip 2right.zip 
+ 1462  ls
+ 1463  cat direction.txt 
+ 1464  uzip 1right.zip 
+ 1465  unzip 1right.zip 
+ 1466  ls
+ 1467  unzip 1left.zip 
+ 1468  cat flag.txt 
+ 1469  ls
+ 1470  unzip 1left.zip 
+ 1471  ls
+ 1472  cat flag.txt 
+ 1473  cat direction.txt 
+ 1474  unzip 1left.zip 
+ 1475  ls
+ 1476  cat flag.txt 
+ 1477  ls
+ 1478  rm *
+ 1479  ls
+ 1480  cat patches 
+ 1481  strings patches 
+ 1482  file patches 
+ 1483  chmod +x patches 
+ 1484  ./patches 
+ 1485  r2 patches 
+ 1486  ls
+ 1487  rm patches 
+ 1488  ls
+ 1489  cd Downloads/
+ 1490  ls
+ 1491  vim ordenar_vegetales.py 
+ 1492  vim luisa.py
+ 1493  ls
+ 1494  cat luisa.json 
+ 1495  vim luisa.json 
+ 1496  ls
+ 1497  vim luisa.c
+ 1498  sudo pip3 install pyfirmata
+ 1499  pulseaudio 
+ 1500  ls
+ 1501  cd Dwo
+ 1502  cd Downloads/
+ 1503  ls
+ 1504  cat luisa.
+ 1505  cat luisa.py 
+ 1506  vim luisa.py 
+ 1507  shutdown now
+ 1508  siar 
+ 1509  urosario_pimp 
+ 1510  facebook 
+ 1511  whereis file 
+ 1512  whereis
+ 1513  whereis --help
+ 1514  whereis ls
+ 1515  whereis ls -b
+ 1516  whereis Semestre2020-2
+ 1517  whereis Books
+ 1518  whereis books
+ 1519  ls
+ 1520  cd 0XCAFEBABE/books/
+ 1521  S
+ 1522  LS
+ 1523  ls
+ 1524  c Books/
+ 1525  cd Books/
+ 1526  ls
+ 1527  cd web_exploitation/
+ 1528  ls
+ 1529  okular hacking.epub 
+ 1530  fbreader hacking.epub 
+ 1531  sudo apt install fbreader
+ 1532  sudo apt install lucidor
+ 1533  ls
+ 1534  cd Documents/
+ 1535  ls
+ 1536  mkdir calibre
+ 1537  calibr
+ 1538  calibre
+ 1539  calibr
+ 1540  calibre
+ 1541  ls
+ 1542  cd DOw
+ 1543  cd Downloads/
+ 1544  ls
+ 1545  rm *
+ 1546  ls
+ 1547  cd 
+ 1548  ls
+ 1549  cd Documents/
+ 1550  ls
+ 1551  cd
+ 1552  ls
+ 1553  mv prepagos_info2/ Documents/
+ 1554  cd
+ 1555  ls
+ 1556  cd Downloads/
+ 1557  ls
+ 1558  chmod +x burpsuite_community_linux_v2020_9_2.sh 
+ 1559  ./burpsuite_community_linux_v2020_9_2.sh 
+ 1560  burp
+ 1561  google
+ 1562  shutdown now
+ 1563  ls
+ 1564  cd Documents/BurpSuiteCommunity/
+ 1565  ls
+ 1566  java -jar burpsuite_community.jar 
+ 1567  ls
+ 1568  rm zip_madness.* nasmCTF.py materialize.min.css code.png 
+ 1569  ls
+ 1570  zip -r binary-to-image.zip binary_to_image
+ 1571  zip -r binary-to-image.zip binary-to-image/
+ 1572  discord 
+ 1573  vim algo.txt
+ 1574  cd 
+ 1575  cd Dwo
+ 1576  cd Downloads/
+ 1577  ls
+ 1578  rm *
+ 1579  vim script.py
+ 1580  discord 
+ 1581  ls
+ 1582  rm binary-to-image* -r 
+ 1583  rm binary-to-image* -rf
+ 1584  ls
+ 1585  rm Calibre\ Library/
+ 1586  rm Calibre\ Library/ -r
+ 1587  calibr
+ 1588  calibre
+ 1589  ls
+ 1590  cd imagenes_puticas/
+ 1591  ls
+ 1592  python3 imagenes.py 
+ 1593  rm imagenes.py 
+ 1594  ls
+ 1595  cd ..
+ 1596  ls
+ 1597  rm imagenes_puticas/ -r
+ 1598  ls
+ 1599  mv webpages/ Semestre2020-2/
+ 1600  cd Semestre2020-2/
+ 1601  ls
+ 1602  cd graph_theory/
+ 1603  ls
+ 1604  cd tareas/
+ 1605  ls
+ 1606  cd ..
+ 1607  ls
+ 1608  cd talleres/
+ 1609  ls
+ 1610  mkdir taller3
+ 1611  cd taller3/
+ 1612  ls
+ 1613  mv ~/Downloads/Taller\ 3\ Grafos\ 2020-II.pdf  .
+ 1614  ls
+ 1615  gitshit
+ 1616  ls
+ 1617  xdg-open Taller\ 3\ Grafos\ 2020-II.pdf 
+ 1618  gitshit
+ 1619  ls
+ 1620  okular Taller\ 3\ Grafos\ 2020-II.pdf 
+ 1621  ls
+ 1622  okular Taller\ 3\ Grafos\ 2020-II.pdf 
+ 1623  ls
+ 1624  mkdir enunciado
+ 1625  mv Taller\ 3\ Grafos\ 2020-II.pdf enunciado/
+ 1626  ls
+ 1627  nuevotex respuestas_rodrigo_castillo
+ 1628  cd respuestas_rodrigo_castillo/
+ 1629  ls
+ 1630  vim respuestas_rodrigo_castillo.tex 
+ 1631  cd Documents/BurpSuiteCommunity/
+ 1632  ls
+ 1633  java -jar burp
+ 1634  java -jar burpsuite_community.jar 
+ 1635  ping dogour.com
+ 1636  easy_install xlsx2csv
+ 1637  sudo easy_install xlsx2csv
+ 1638  cd Downloads/
+ 1639  ls
+ 1640  xlsx2csv Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls >> nombres.csv
+ 1641  calibre
+ 1642  ls
+ 1643  cat script.py 
+ 1644  ls
+ 1645  rm script.py 
+ 1646  cd Documents/BurpSuiteCommunity/
+ 1647  java -jar burpsuite_community.jar 
+ 1648  ls
+ 1649  cd Documents/
+ 1650  ls
+ 1651  cd photoprepagos/
+ 1652  ls
+ 1653  cat nums.csv 
+ 1654  cp nums.csv ~/Downloads/
+ 1655  cd 
+ 1656  cd Downloads/
+ 1657  ls
+ 1658  cat nums.csv 
+ 1659  vim nums.csv 
+ 1660  cd Downloads/
+ 1661  ls
+ 1662  rm .
+ 1663  rm .~lock.Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls# 
+ 1664  ls
+ 1665  vim script.py
+ 1666  mv Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls jaja.xlsx
+ 1667  vim script.py
+ 1668  ls
+ 1669  rm Descargar\ listado\ de\ registro\ de\ vallas\ vigentes\ \(Formato\ MS\ Excel\).xls jaja.xlsx nombres.csv 
+ 1670  ls
+ 1671  mv base\ de\ datos\ empresas\ medianas.xls jaja.cls
+ 1672  mv jaja.cls jaja.xls
+ 1673  vim script.py 
+ 1674  urosario_pimp 
+ 1675  siar
+ 1676  git clone https://github.com/dilshod/xlsx2csv 
+ 1677  ls
+ 1678  cd xlsx2csv/
+ 1679  ls
+ 1680  python3 setup.py 
+ 1681  python3 xlsx2csv.py ../Downloads/Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls 
+ 1682  easy_install xls2csv
+ 1683  sudo easy_install xls2csv
+ 1684  cd ..
+ 1685  ls
+ 1686  rm -r xlsx2csv/
+ 1687  rm -rf xlsx2csv/
+ 1688  cd Downloads/
+ 1689  ls
+ 1690  rm maxflow-graph-algorithm-graph* respuestas_rodrigo_castillo.pdf 
+ 1691  ls
+ 1692  libreoffice --headless --convert-to-csv Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls --outdir jaja.csv
+ 1693  ls
+ 1694  libreoffice --headless --convert-to-csv Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls --outdir jaja.csv
+ 1695  ls
+ 1696  libreoffice --headless --convert-to-csv Base\ de\ Datos\ Julio\ 2012\ Persona\ Natural.xls jaja
+ 1697  ls
+ 1698  sudo apt install gnumeric
+ 1699  sudo apt install xls2csv
+ 1700  ls
+ 1701  cd Downloads/
+ 1702  ls
+ 1703  mkdir haciendo_pedidos_a_dogour
+ 1704  mv * haciendo_pedidos_a_dogour/
+ 1705  mv haciendo_pedidos_a_dogour/ ../Documents/
+ 1706  ls
+ 1707  ls -la
+ 1708  rm .~lock.base\ de\ datos\ empresas\ medianas.xls# 
+ 1709  ls
+ 1710  cd ../Documents/
+ 1711  ls
+ 1712  cd Android/
+ 1713  ls
+ 1714  cd ..
+ 1715  ls
+ 1716  xdg-open .
+ 1717  ls
+ 1718  cd ..
+ 1719  ls
+ 1720  cd 0XCAFEBABE/
+ 1721  ls
+ 1722  cd ..
+ 1723  ls
+ 1724  cd Semestre2020-2/
+ 1725  ls
+ 1726  cd ..
+ 1727  ls
+ 1728  cd Desktop/
+ 1729  ls
+ 1730  cd ..
+ 1731  ls
+ 1732  cd Documents/
+ 1733  ls
+ 1734  cd haciendo_pedidos_a_dogour/
+ 1735  ls
+ 1736  python3 script.py 
+ 1737  burp
+ 1738  ls
+ 1739  cd Documents/BurpSuiteCommunity/
+ 1740  ls
+ 1741  java -jar burpsuite_community.jar 
+ 1742  eaulas 
+ 1743  ls
+ 1744  xdg-open animacion.png 
+ 1745  file animacion.png 
+ 1746  ls
+ 1747  rm animacion.png 
+ 1748  xdg-open animacion.mp4 
+ 1749  ls
+ 1750  xdg-open animacion.mp4 
+ 1751  ls
+ 1752  cd Semestre2020-2/
+ 1753  ls
+ 1754  cd graph_theory/
+ 1755  ls
+ 1756  mkdir prim_algorithm_implementation
+ 1757  cd prim_algorithm_implementation/
+ 1758  ls
+ 1759  vim prim.py
+ 1760  ls
+ 1761  python prim.py 
+ 1762  vim prim.py 
+ 1763  ls
+ 1764  mv prim.py prim_py2.py
+ 1765  ls
+ 1766  mkdir py2
+ 1767  mv prim_py2.py py2/
+ 1768  mv py2/ 2 
+ 1769  ls
+ 1770  vim prim.py
+ 1771  ls
+ 1772  python3 prim.py 
+ 1773  ls
+ 1774  rm -r 2/
+ 1775  gitshit
+ 1776  ls
+ 1777  vim prim.py 
+ 1778  ls
+ 1779  vim prim.py 
+ 1780  reboot 
+ 1781  vim script.js 
+ 1782  ls
+ 1783  rm dogur.png geckodriver.log 
+ 1784  vim hacked.py 
+ 1785  ls
+ 1786  cd Documents/BurpSuiteCommunity/
+ 1787  ls
+ 1788  java -jar burpsuite_community.jar 
+ 1789  shutdown now
+ 1790  ls
+ 1791  vim hacked.py 
+ 1792  :Q
+ 1793  vim script.js 
+ 1794  ls
+ 1795  cd Semestre2020-2/
+ 1796  ls
+ 1797  cd graph_theory/
+ 1798  ls
+ 1799  cd prim_algorithm_implementation/
+ 1800  ls
+ 1801  vim prim.py 
+ 1802  ls
+ 1803  gitshit
+ 1804  vim prim.py 
+ 1805  cd 0XCAFEBABE/Logos/
+ 1806  ls
+ 1807  cd Logos/
+ 1808  ls
+ 1809  xdg-open .
+ 1810  ls
+ 1811  cd ..
+ 1812  ls
+ 1813  cd 
+ 1814  cd Documents/
+ 1815  ls
+ 1816  cd haciendo_pedidos_a_dogour/
+ 1817  ls
+ 1818  python3 script.py 
+ 1819  vim script.py 
+ 1820  ls
+ 1821  vim hacked.py 
+ 1822  ls
+ 1823  vim script.js 
+ 1824  ls /etc/NetworkManager/system-connections/
+ 1825  cd ls /etc/NetworkManager/system-connections/
+ 1826  ls
+ 1827  cd ls /etc/NetworkManager/system-connections/
+ 1828  ls
+ 1829  cd  /etc/NetworkManager/system-connections/
+ 1830  ls
+ 1831  cat Claro_5G_6301DC 
+ 1832  sudo cat Claro_5G_6301DC 
+ 1833  cd Documents/BurpSuiteCommunity/
+ 1834  ls
+ 1835  java -jar burpsuite_community.jar 
+ 1836  calibr
+ 1837  calibre
+ 1838  cd Semestre2020-2/nod32/
+ 1839  ls
+ 1840  cd spotyFind/
+ 1841  ls
+ 1842  cat super_dijkstra_digrafo.py 
+ 1843  python3 super_dijkstra_digrafo.py "arctic monkeys" "the kooks" 3 
+ 1844  python3 super_dijkstra_digrafo.py "arctic monkeys" "solomun" 3 
+ 1845  python3 super_dijkstra_digrafo.py "arctic monkeys" "solomun" 2
+ 1846  python3 super_dijkstra_digrafo.py "solomun" "arctic monkeys" 2
+ 1847  arpspoof --help
+ 1848  sudo arpspoof --help
+ 1849  ifconfig 
+ 1850  sudo netdiscover -i wlp0s20f3:
+ 1851  sudo netdiscover -i wlp0s20f3
+ 1852  ls
+ 1853  pulseaudio 
+ 1854  shutdown 65
+ 1855  siar 
+ 1856  ls
+ 1857  cd Semestre2020-2/
+ 1858  ls
+ 1859  cd web
+ 1860  ls
+ 1861  cd web
+ 1862  ls
+ 1863  cd webpages/
+ 1864  ls
+ 1865  cd personal_blog/
+ 1866  ls
+ 1867  cat css/style.css 
+ 1868  ifconfig 
+ 1869  ls
+ 1870  cd Semestre2020-2/
+ 1871  ls
+ 1872  cd web_development/
+ 1873  ls
+ 1874  cd clases/clases/
+ 1875  ls
+ 1876  cd clase9_DOM/
+ 1877  ls
+ 1878  cd ..
+ 1879  ls
+ 1880  cd clase10_jquery_web_components/
+ 1881  ls
+ 1882  vim web_components/components.js 
+ 1883  ls
+ 1884  mkdir 0xday_tulane_university
+ 1885  mv hacked.py script.js 0xday_tulane_university/
+ 1886  ls
+ 1887  mv 0xday_tulane_university/ Documents/
+ 1888  ls
+ 1889  rm geckodriver.log 
+ 1890  l
+ 1891  cd Desktop/
+ 1892  ls
+ 1893  l
+ 1894  rm -r ladino_marica/
+ 1895  cd 
+ 1896  ls
+ 1897  cd Semestre2020-2/
+ 1898  ls
+ 1899  l
+ 1900  cd webpages/
+ 1901  ls
+ 1902  cd chos_webpage/
+ 1903  ls
+ 1904  code index.html 
+ 1905  code .
+ 1906  mkdir js
+ 1907  mkdir css
+ 1908  ls
+ 1909  mkdir contenido_paula
+ 1910  cd contenido_paula/
+ 1911  ls
+ 1912  mv ~/Downloads/APP\ WEB\ MODELO.ai .
+ 1913  cd 
+ 1914  l
+ 1915  scd Downloads/
+ 1916  ls
+ 1917  cd Downloads/
+ 1918  ls
+ 1919  mkdir kali_linux
+ 1920  mv kali-linux-2020.3-installer-amd64.iso kali_linux/
+ 1921  mv kali_linux/ ../Documents/
+ 1922  ls
+ 1923  rm meme.jpg * 
+ 1924  ls
+ 1925  s
+ 1926  ls
+ 1927  cd 
+ 1928  ls
+ 1929  cd SE
+ 1930  cd Semestre2020-2/
+ 1931  cd webpages/
+ 1932  ls
+ 1933  cd chos_webpage/
+ 1934  ls
+ 1935  cd contenido_paula/
+ 1936  ls
+ 1937  mv APP\ WEB\ MODELO.ai ideas_paula.ai
+ 1938  xdg-open ideas_paula.ai 
+ 1939  ls
+ 1940  cd ..
+ 1941  ls
+ 1942  touch css/style.css
+ 1943  ls
+ 1944  touch js/script.js
+ 1945  date
+ 1946  cat /proc/version
+ 1947  cat /proc/uptime 
+ 1948  netstat -l -p
+ 1949  top
+ 1950  history 
+ 1951  df -k
+ 1952  netstat --help
+ 1953  netstat 
+ 1954  sudo apt install mongodb
+ 1955  netstat -a
+ 1956  sudo pip3 install youtube-dl
+ 1957  cd Semestre2020-2/
+ 1958  ls
+ 1959  cd web
+ 1960  cd webpages/
+ 1961  gitshit
+ 1962  git status
+ 1963  gitshit
+ 1964  ls
+ 1965  cd personal_blog/
+ 1966  ls
+ 1967  cd resources/
+ 1968  ls
+ 1969  rm -r music/
+ 1970  cd ..
+ 1971  gitshit
+ 1972  man netstat
+ 1973  netstat --help
+ 1974  netstat -a >> netstat.txt
+ 1975  vim netstat.txt 
+ 1976  shutdown 145
+ 1977  shutdown now
+ 1978  top >> process.txt
+ 1979  cat process.txt 
+ 1980  top >> process.txt
+ 1981  cat process.txt 
+ 1982  vim process.txt 
+ 1983  top --help
+ 1984  top -h
+ 1985  top -hv
+ 1986  top 
+ 1987  top
+ 1988  ls
+ 1989  rom process.txt netstat.txt 
+ 1990  rm netstat.txt process.txt 
+ 1991  ls
+ 1992  cd Documents/
+ 1993  cd BurpSuiteCommunity/
+ 1994  ls
+ 1995  java -jar burpsuite_community.jar 
+ 1996  python
+ 1997  dl
+ 1998  ls
+ 1999  rm exists.py algo.json 
+ 2000  ls
+ 2001  cd Images/
+ 2002  ls
+ 2003  cd ..
+ 2004  ls
+ 2005  mkdir docs
+ 2006  cd docs/
+ 2007  ls
+ 2008  l
+ 2009  vim labforensics.sh
+ 2010  ls
+ 2011  chmod +x labforensics.sh 
+ 2012  ./labforensics.sh 
+ 2013  ls
+ 2014  cat date.txt 
+ 2015  rm date.txt 
+ 2016  rm netstat.txt 
+ 2017  ls
+ 2018  vim labforensics.sh 
+ 2019  ls
+ 2020  vim labforensics.sh 
+ 2021  ls
+ 2022  ./labforensics.sh 
+ 2023  ls
+ 2024  rm *txt
+ 2025  sudo ./labforensics.sh 
+ 2026  rm *txt
+ 2027  sudo rm *txt
+ 2028  ls
+ 2029  ./labforensics.sh 
+ 2030  ls
+ 2031  ls -l
+ 2032  cat date.txt 
+ 2033  cat df.txt 
+ 2034  cat uptime.txt 
+ 2035  ls
+ 2036  cat labforensics.sh 
+ 2037  }}ls
+ 2038  ls
+ 2039  vim labforensics.sh 
+ 2040  ./labforensics.sh 
+ 2041  ls
+ 2042  zip -r evidence.zip .
+ 2043  ls
+ 2044  rm evidence.zip 
+ 2045  1vim labforensics.sh 
+ 2046  vim labforensics.sh 
+ 2047  ./labforensics.sh 
+ 2048  ls
+ 2049  mv evidence.zip ~/Downloads/
+ 2050  cd ~/Downloads/
+ 2051  ls
+ 2052  unzip evidence.zip 
+ 2053  ls
+ 2054  cat netstat.txt 
+ 2055  ls
+ 2056  rm *txt
+ 2057  cd -
+ 2058  ls
+ 2059  rm *txt
+ 2060  ls
+ 2061  ./labforensics.sh 
