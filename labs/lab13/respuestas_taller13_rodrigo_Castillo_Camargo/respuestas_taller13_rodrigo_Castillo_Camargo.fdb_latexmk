@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex respuestas_taller13_rodrigo_Castillo_Camargo"] 1604963049 "respuestas_taller13_rodrigo_Castillo_Camargo.aux" "respuestas_taller13_rodrigo_Castillo_Camargo.bbl" "respuestas_taller13_rodrigo_Castillo_Camargo" 1604963050
+["bibtex respuestas_taller13_rodrigo_Castillo_Camargo"] 1604977222 "respuestas_taller13_rodrigo_Castillo_Camargo.aux" "respuestas_taller13_rodrigo_Castillo_Camargo.bbl" "respuestas_taller13_rodrigo_Castillo_Camargo" 1604977227
   "../Bibliography.bib" 0 -1 0 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "respuestas_taller13_rodrigo_Castillo_Camargo.aux" 1604963050 1358 bb496aca7a719c99695c6b804f2b998c ""
+  "respuestas_taller13_rodrigo_Castillo_Camargo.aux" 1604977227 1358 bb496aca7a719c99695c6b804f2b998c ""
   "respuestas_taller13_rodrigo_Castillo_Camargo.bcf" 0 -1 0 ""
   (generated)
-  "respuestas_taller13_rodrigo_Castillo_Camargo.blg"
   "respuestas_taller13_rodrigo_Castillo_Camargo.bbl"
-["pdflatex"] 1604963049 "respuestas_taller13_rodrigo_Castillo_Camargo.tex" "respuestas_taller13_rodrigo_Castillo_Camargo.pdf" "respuestas_taller13_rodrigo_Castillo_Camargo" 1604963050
+  "respuestas_taller13_rodrigo_Castillo_Camargo.blg"
+["pdflatex"] 1604977222 "respuestas_taller13_rodrigo_Castillo_Camargo.tex" "respuestas_taller13_rodrigo_Castillo_Camargo.pdf" "respuestas_taller13_rodrigo_Castillo_Camargo" 1604977227
   "/etc/texmf/web2c/texmf.cnf" 1595594532 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -124,9 +124,9 @@
   "Images/result.png" 1604958346 92439 a93a39d2444eab4b595c3794277bb06a ""
   "Images/script.png" 1604958318 59656 9188af649140bc16747bc80283adb31f ""
   "Images/sockets.png" 1604962562 459866 56cf035349d1462176e1b51d7e63e055 ""
-  "respuestas_taller13_rodrigo_Castillo_Camargo.aux" 1604963050 1358 bb496aca7a719c99695c6b804f2b998c ""
+  "respuestas_taller13_rodrigo_Castillo_Camargo.aux" 1604977227 1358 bb496aca7a719c99695c6b804f2b998c ""
   "respuestas_taller13_rodrigo_Castillo_Camargo.bbl" 0 -1 0 "bibtex respuestas_taller13_rodrigo_Castillo_Camargo"
-  "respuestas_taller13_rodrigo_Castillo_Camargo.tex" 1604963048 4630 bf2bc28e606e3e4bac00a448e13fc8ca ""
+  "respuestas_taller13_rodrigo_Castillo_Camargo.tex" 1604977221 4933 9147919f7748fba38e2c37bd61ca8027 ""
   (generated)
   "respuestas_taller13_rodrigo_Castillo_Camargo.log"
   "respuestas_taller13_rodrigo_Castillo_Camargo.pdf"
